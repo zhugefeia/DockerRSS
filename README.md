@@ -19,7 +19,7 @@ docker stack deploy -c docker_rss.yml docker_rss
 
 4. visit `http://localhost:8080` and config rss.
 
->you may need to manual pull these image from the docker hub.
+>you may need to manually pull these image from the docker hub.
 
 Shutdown
 --------
