@@ -10,7 +10,7 @@ Deploy
 
 2. create directory `/home/username/docker/tts` to store rss data.
 
-3. run command as blow:
+3. run command as below:
 
 ```
 docker swarm init
